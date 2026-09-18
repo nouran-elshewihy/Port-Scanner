@@ -1,4 +1,5 @@
 Python Port Scanner
+
 ​A custom TCP port scanner built with Python for network reconnaissance and auditing.
 ​Features and Technical Details:
 ​Target Requirements: Allows the user to specify a target IP address alongside a custom port range (Start and End ports) for targeted auditing.
